@@ -1,5 +1,3 @@
-.env
-.env.*
 !.env.example
 node_modules/
 dist/
@@ -14,3 +12,4 @@ apps/web/.react-router/
 # Font package unpacked to regenerate the report nameplates (docs/customize.md)
 package/
 fontsource-noto-sans-sc-*.tgz
+config.bat
